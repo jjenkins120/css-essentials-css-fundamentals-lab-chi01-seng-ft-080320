@@ -41,3 +41,7 @@ figcaption {
   text-align: center;
 }
 
+.footer {
+  float: left;
+  width: 25%;
+}
