@@ -37,11 +37,11 @@ figcaption {
 
 #details {
   display: block;
-  background: red;
-  text-align: center;
 }
 
 .footer {
   float: left;
   width: 25%;
+  background: red;
+  text-align: center;
 }
